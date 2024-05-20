@@ -1,0 +1,21 @@
+{
+    "name": "İsim",
+    "surname": "Soyisim",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "content": "İçerik",
+    "send": "Gönder",
+    "language": "Dil Değiş",
+    "success": "Başarılı",
+    "successText": "Kaydetmiş olduğunuz {{phone}} telefon numarasına başarıyla kod gönderildi.",
+    "nameRequired": "İsim alanı zorunludur",
+    "nameMinCharacter": "En az 3 karakter",
+    "nameMaxCharacter": "En çok 10 karakter",
+    "surnameRequired": "Soyisim alanı zorunludur",
+    "emailInvalid": "E-posta adresi geçersiz",
+    "emailRequired": "E-posta alanı zorunludur",
+    "phoneInvalid": "Telefon numarası rakamlardan oluşmalıdır",
+    "phoneRequired": "Telefon alanı zorunludur",
+    "contentRequired": "İçerik alanı zorunludur",
+    "sendError": "Tüm alanları doldurun"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "phone": "Phone",
+    "content": "Content",
+    "send": "Send",
+    "language": "Language",
+    "success": "Success",
+    "successText": "The code was successfully sent to the {{phone}} phone number you registered.",
+    "nameRequired": "Namespace is required",
+    "nameMinCharacter": "Minimum 3 characters",
+    "nameMaxCharacter": "Maximum 10 characters",
+    "surnameRequired": "Surname field is required",
+    "emailInvalid": "Invalid email address",
+    "emailRequired": "Email field is required",
+    "phoneInvalid": "Phone number should contain digits",
+    "phoneRequired": "Phone field is required",
+    "contentRequired": "Content field is required",
+    "sendError": "Complete all fields"
+}
