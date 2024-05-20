@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/react-formik-yup-i18n-app.git
+   git clone https://github.com/uguraziz/react-formik-yup-i18n-app.git
    cd react-formik-yup-i18n-app
    ```
 
